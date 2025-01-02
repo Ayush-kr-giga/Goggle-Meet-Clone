@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* ________________  NAVBAR START _________________*/
+
+
+#navbar{
+    display: flex;
+    align-items: center;
+    /* height: 3.175vw; */
+    padding: 0.529vw;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+}
+
+#logo img{
+    width: 8.201vw;
+    padding-left: 0.794vw;
+}
+
+#logo span{
+    display: block;
+    font-size: 1.455vw;
+    line-height: 1.852vw;
+    font-family: "Product Sans", Arial, sans-serif;
+    color: #5f6368;
+    padding: 0 0 0 0.265vw;
+    
+}
